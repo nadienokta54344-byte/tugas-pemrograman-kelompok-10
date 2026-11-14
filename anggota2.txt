@@ -1,0 +1,4 @@
+nama: Nur Aulia Rizki
+tugas: Praktik Git
+Mata Kuliah: Pemrograman Web 2
+Kelompok: 3 orang
